@@ -4,7 +4,7 @@ Greetings 👋 Soy Rahul
 Computational Scientist by practise, Mathematician by training, and Physicist by heart.
 ------------------------
 
-I work as a computer scientist at a molecular and functional biomarkers lab. I am compelled by the desire to bring order out of chaos and contribute to society through innovation.
+I work as a computer scientist at a molecular and functional biomarkers lab. I am compelled by the desire to bring order out of chaos and contribute to society through innovation. My current endeavors culminate into end-end deployments and I am diving deep into trinity (bits, qubits, and neurons) to create more accurate models for simulation, forecasting and optimization.
 
 * 🌍  I'm based in San Sebastian
 * 🧠  Project Management and Software Deployment: Jira, Github, Gitlab, Docker
