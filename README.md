@@ -1,4 +1,4 @@
-Greetings 👋 Soy Rahul 
+Greetings 👋, Soy Rahul 
 ===================================
 
 Computational Scientist by Practise, Mathematician by Training, and Physicist by Heart.
