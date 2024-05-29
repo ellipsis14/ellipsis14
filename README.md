@@ -7,7 +7,7 @@ Computational Scientist by Practise, Mathematician by Training, and Physicist by
 I work as a computer scientist at a molecular and functional biomarkers lab. I am compelled by the desire to bring order out of chaos and contribute to society through innovation. My current endeavors culminate into end-end deployments and I am diving deep into trinity of technologies(bits, qubits, and neurons) to create more accurate models for simulation, forecasting and optimization.
 
 * 🌍  I'm based in San Sebastian
-* 🧠  Mathematical modeling (Climate, Healthcare, and Aerodynamics), Optimization (ML,DL,QC), Project Management (Jira, Gitlab, Docker)
+* 🧠  Mathematical modeling (Climate, Healthcare, and Aerodynamics), Optimization (ML,DL,QC), Project Management (Jira, Github)
 * ⚡  I am a voracious reader and love integrating ideas from computational mathematics, scientific computing and Physics for healthcare applications. 
 
 ### Skills:
