@@ -10,9 +10,7 @@ I work as a computer scientist at a molecular and functional biomarkers lab. I a
 * 🧠  Project Management and Software Deployment: Jira, Github, Gitlab, Docker
 * ⚡  I am a voracious reader and love integrating ideas from computational mathematics, scientific computing and Physics for healthcare applications. 
 
-### Skills
-
-
+### Skills:
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -29,5 +27,7 @@ I work as a computer scientist at a molecular and functional biomarkers lab. I a
 
 
 ### Socials
-
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
