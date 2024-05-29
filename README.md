@@ -8,7 +8,7 @@ I work as a computer scientist at a molecular and functional biomarkers lab. I a
 
 * 🌍  I'm based in San Sebastian
 * 🧠  Mathematical modeling (Healthcare, Climate, and Aerodynamics), Optimization (ML,DL,QC), Project Management.
-* ⚡  I am a voracious reader and love integrating ideas from computational mathematics, scientific computing and Physics for healthcare applications. 
+* ⚡  I am a voracious reader and love integrating ideas from Computational Mathematics, Scientific Computing and Physics. 
 
 ### Skills:
 <p align="left">
